@@ -1,2 +1,1 @@
-Django==4.1
-django-admin-smoke==0.4.0
+git+https://github.com/infarm/django-admin-smoke.git@django4.2#egg=django-admin-smoke
