@@ -59,7 +59,7 @@ def get_version():
 
 setup(
     name=package_name,
-    version=get_version() or "dev",
+    version="0.5.0",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=["admin_wizard"],
