@@ -69,15 +69,17 @@ setup(
     author="Sergey Tikhonov",
     author_email="zimbler@gmail.com",
     description="Wizard implementation for Django admin",
-    install_requires=["Django>=4.1,<5.0"],
+    install_requires=["Django>=4.1,<5.1"],
     classifiers=[
         "Development Status :: 4 - Beta",
         "Environment :: Console",
         "Framework :: Django :: 4.2",
+        "Framework :: Django :: 5.0",
         "Operating System :: POSIX",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
         (
             "Topic :: Internet :: WWW/HTTP :: Dynamic Content :: "
             "Content Management System"

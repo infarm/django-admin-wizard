@@ -1,1 +1,1 @@
-git+https://github.com/infarm/django-admin-smoke.git@django4.2#egg=django-admin-smoke
+git+https://github.com/infarm/django-admin-smoke.git@django5.0#egg=django-admin-smoke
